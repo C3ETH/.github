@@ -19,3 +19,23 @@ We are helping community members from a wide variety of countries and languages 
 ## Which countries are in the Eastern Hemisphere community?
 
 As of now, we have members from Japan, Vietnam, Indonesia, Australia, New Zealand, Phillipines, and South Korea. 
+
+## C3ETH Stake Pool
+
+As a community that puts forward the concept of decentralization, Eastern Townhall also operates a stake pool or validator node called C3ETH, which stands for Cardano Catalyst Community Eastern Townhall. The mission is to become one of the stakeholders in the Cardano network, dedicated to maintaining and securing the blockchain by staking some ADA assets and involving itself in the block mining process. Rewards from this activity are shared between the community’s treasury and delegators (people or community members whose crypto was used in the process).
+
+Please support us as we continue expanding our reach to friends and people in the Eastern Hemisphere, spreading the positivity and impacts that could be derived from the development of the Cardano blockchain, especially with the Catalyst Project. 
+
+Please support us by delegating a portion of your ADA to our stake pool, C3ETH.
+
+#### -Stake Pool Information- 
+* Pool Ticker: **C3ETH**
+* Pool ID: **f0a112d12e435e9659f80a41236daf525e08189702a25a7d0876f962**
+* Pool View: **pool17zs395fwgd0fvk0cpfqjxmd02f0qsxyhq2395lggwmukycj5rqm**
+* Margin Cost: **4%**
+* Fixed Cost: **340 ADA**
+
+## How to get involved in the community activities?
+
+Consider this Github as our public repository for any tasks that we do as part of community initiatives. You can also check our social media links, where we post any schedules, announcements, events, or special activities where you can involve yourself and begin contributing to the Cardano community.
+
