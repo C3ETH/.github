@@ -2,9 +2,14 @@
 
 ![EasternTownhallMainPage](https://github.com/C3ETH/.github/blob/main/assets/EasternTownhallMainPage.JPG)
 
-We are a group of people with varying backgrounds with a unified interest in Cardano. 
-We set to: 
-- introduce, 
-- educate, 
+We are a group of people with varying backgrounds who share a unified interest in Cardano and we set out to:
+- introduce, 
+- educate, 
 - discuss and,
-- do projects in Cardano, specifically to Indonesians and for Indonesia.
+- do projects in Cardano, specifically for people and friends in the Eastern Hemisphere countries.
+
+## What is Cardano
+
+Cardano is a global decentralised open-source project Proof-of-Stake blockchain network, allowing people all over the world to cooperate, collaborate, propose, fund, deploy markets for financial solutions and applications to build economic wellbeing for millions.
+
+
