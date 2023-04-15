@@ -37,5 +37,12 @@ Please support us by delegating a portion of your ADA to our stake pool, C3ETH.
 
 ## How to get involved in the community activities?
 
-Consider this Github as our public repository for any tasks that we do as part of community initiatives. You can also check our social media links, where we post any schedules, announcements, events, or special activities where you can involve yourself and begin contributing to the Cardano community.
+Consider this Github as our public repository for any tasks that we do as part of community initiatives. 
 
+You can also check our social media links below, where we post any schedules, announcements, events, or special activities where you can involve yourself and begin contributing to the Cardano community.
+
+* [Website](https://easterntownhall.com/)
+* [Discord](https://discord.com/invite/BuKbMV37ZX)
+* [Telegram](https://t.me/easterntownhall)
+* [Twitter](https://twitter.com/c3eth)
+* [Zoom Meeting](https://us02web.zoom.us/meeting/register/tZcqcOCopjsuGNd0IAZPoGfYNEYCXO_prtEd) - Our biweekly townhall meetings are every Saturday at 09:00 UTC
