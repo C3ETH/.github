@@ -51,4 +51,25 @@ Yes, we have. We started submitting proposals to Project Catalyst in Fund 6, and
 
 These are our funded proposals to this day:
 
-**Fund 6**
+#### Fund 9
+* Eastern Hemisphere dRep TownHall
+* Onboarding East Asia Today
+* Eastern Town Hall Team Operation
+
+#### Fund 8
+* Eastern Town Hall Team Operation
+* Onboarding East Asia Today
+* Eastern Catalyst School
+* Grow East Asia, Grow Cardano
+
+#### Fund 7
+* Eastern Town Hall
+* Eastern Town Hall & Japan
+* Eastern Town Hall Language Support
+* Grow East Asia, Grow Cardano
+
+#### Fund 6
+* Eastern TownHall Team Operation
+* CatalystSchool - Eastern Hemisphere
+* Connect East Asian Entrepreneurs
+* On-boarding East Asia Today!
