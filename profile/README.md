@@ -47,7 +47,7 @@ You can also check our social media links below, where we post any schedules, an
 
 ## Has the Eastern Townhall team submitted any proposals to Project Catalyst? 
 
-Yes, we have. We started submitting proposals to Project Catalyst in Fund 6, and since then we have made a lot of engagements with the community. Not only within the Eastern Hemisphere countries, but our efforts also reached out to other Cardano communities and some projects that built on Cardano.
+Yes, we have. We started submitting proposals to Project Catalyst in Fund 6, and since then we have made a lot of engagements with the community. Not only within the Eastern Hemisphere countries, but our efforts have also reached out to other Cardano communities and some projects that are built on Cardano.
 
 These are our funded proposals to this day:
 
