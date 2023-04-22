@@ -16,9 +16,9 @@ Cardano is a global decentralised open-source project Proof-of-Stake blockchain 
 
 We are helping community members from a wide variety of countries and languages to onboard and enable the widest participation possible. Moreover, we are also dedicating ourselves to localizing every piece of Cardano Catalyst content and making it accessible across the globe.
 
-## Which countries are in the Eastern Hemisphere community?
+## Which countries are involved in the Eastern Hemisphere?
 
-As of now, we have members from Japan, Vietnam, Indonesia, Australia, New Zealand, Phillipines, and South Korea. 
+As of now, we have members from Japan, Vietnam, Indonesia, Australia, New Zealand, Phillipines, and South Korea. Hence, we are called the Eastern Townhall team.
 
 ## C3ETH Stake Pool
 
@@ -26,9 +26,7 @@ As a community that puts forward the concept of decentralization, Eastern Townha
 
 Please support us as we continue expanding our reach to friends and people in the Eastern Hemisphere, spreading the positivity and impacts that could be derived from the development of the Cardano blockchain, especially with the Catalyst Project. 
 
-Please support us by delegating a portion of your ADA to our stake pool, C3ETH.
-
-#### -Stake Pool Information- 
+If you're interested in delegating a portion of your ADA to our stake pool, C3ETH, please see the information below. 
 * Pool Ticker: **C3ETH**
 * Pool ID: **f0a112d12e435e9659f80a41236daf525e08189702a25a7d0876f962**
 * Pool View: **pool17zs395fwgd0fvk0cpfqjxmd02f0qsxyhq2395lggwmukycj5rqm**
@@ -46,3 +44,11 @@ You can also check our social media links below, where we post any schedules, an
 * [Telegram](https://t.me/easterntownhall)
 * [Twitter](https://twitter.com/c3eth)
 * [Zoom Meeting](https://us02web.zoom.us/meeting/register/tZcqcOCopjsuGNd0IAZPoGfYNEYCXO_prtEd) - Our biweekly townhall meetings are every Saturday at 09:00 UTC
+
+## Has the Eastern Townhall team submitted any proposals to Project Catalyst? 
+
+Yes, we have. We started submitting proposals to Project Catalyst in Fund 6, and since then we have made a lot of engagements with the community. Not only within the Eastern Hemisphere countries, but our efforts also reached out to other Cardano communities and some projects that built on Cardano.
+
+These are our funded proposals to this day:
+
+**Fund 6**
